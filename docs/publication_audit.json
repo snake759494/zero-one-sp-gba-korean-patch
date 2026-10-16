@@ -1,5 +1,5 @@
 {
-  "public_file_count": 82,
+  "public_file_count": 83,
   "prohibited_files": [],
   "personal_paths": [],
   "secret_patterns": [],
@@ -23,6 +23,7 @@
     "data/split_tile_maps.json": "f05dda785e48904e87aa7964952b1e8b49a9f1a14a62bdd8f6e793e9eb300bd4",
     "data/split_ui_translations.json": "0a0d98d2a80bd60903fbbca454b1df799c7a8f974f4daf14ae6edb93015e1a41",
     "docs/BUILD.md": "22c7723b00532e51d53ad59f6610a6b004287464817094bad04d45131d3963a5",
+    "docs/release_roundtrip.json": "8b2143e4dfe8292b1777098b60402800ee6a51f277c46535b75a3916a0ccf367",
     "docs/reproduction.json": "41afcca964fe94960586be1b0f05e5b4125f3823f35c7a9a74c98e6314e88870",
     "docs/TECHNICAL.md": "ff8d313da34262fcf1076e5c5987488ccd551ac44ef8942f0fe0154ca19ad364",
     "docs/VALIDATION.md": "17099c2ab855dad2644322d44c5a165cae77bd12e8e087dcc1b13d2ee32901a8",
