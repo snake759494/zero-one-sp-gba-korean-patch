@@ -1,0 +1,443 @@
+[
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500328,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아버지"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500336,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "조코지 노부히코"
+  },
+  {
+    "source": {
+      "resource": 16501752,
+      "offset": 16694,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "누나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500360,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "조코지 리츠코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500374,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "미타 씨"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500384,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아키스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500392,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "제네코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500400,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "오츠키 경부"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500410,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "경부님"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500420,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "츠토무"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500428,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "카도카와 츠토무"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500440,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "신"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500452,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "세키구치 신"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500462,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아이코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500470,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "미후네 아이코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500482,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "츠츠미 나나세"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500492,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "나가오 아키라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500510,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "오모토"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500516,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "고트"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500524,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "의문의 청년"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500534,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "형사"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500540,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "경시님"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500550,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "케이트"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500558,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "브라바스키 경시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500576,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "아키야마 경부보"
+  },
+  {
+    "source": {
+      "resource": 15482576,
+      "offset": 9778,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "아키야마"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500594,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사마귀 잭"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500612,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "시로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500620,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "로버트 대령"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500634,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "진"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500642,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "습격범"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500650,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "케네스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500658,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "고토 마사시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500670,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아스카"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500678,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "마츠오 아스카"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500690,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "키요타 유리"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500702,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "미타의 어머니"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500712,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "피리"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500718,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "앨리스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500726,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "로즈"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500734,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "브라바스키 선생"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500752,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "데구치 에이지"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500764,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "오다 토모"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500774,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "조코지 타이라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500788,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "어머니"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500796,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "키요타 마이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500806,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "타카츠카 선생"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500816,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "게이머"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500826,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "엔젤"
+  }
+]

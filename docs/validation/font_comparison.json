@@ -1,0 +1,82 @@
+{
+  "source": "https://github.com/quiple/galmuri/releases/tag/v2.40.4",
+  "original_cell": [
+    8,
+    16
+  ],
+  "fonts": [
+    {
+      "font": "Galmuri7",
+      "representative_glyph": "가",
+      "bbx": [
+        7,
+        7,
+        0,
+        0
+      ],
+      "sha256": "0ec6b8707e8c47d85995b5b2b507180aed7bcc724792fe5477e998d41f8b075f",
+      "fits_native_cell": true
+    },
+    {
+      "font": "Galmuri9",
+      "representative_glyph": "가",
+      "bbx": [
+        9,
+        9,
+        0,
+        0
+      ],
+      "sha256": "cc9b6d6f660d8391016be7691b3fc3f864bfa3b095f67bc5e830e9b03ce42162",
+      "fits_native_cell": false
+    },
+    {
+      "font": "Galmuri11",
+      "representative_glyph": "가",
+      "bbx": [
+        11,
+        11,
+        0,
+        0
+      ],
+      "sha256": "98716d08aa5762e6ce440d5a757d107cb5d3f32a53861878be06c00aacc23304",
+      "fits_native_cell": false
+    },
+    {
+      "font": "Galmuri11-Condensed",
+      "representative_glyph": "가",
+      "bbx": [
+        7,
+        11,
+        0,
+        0
+      ],
+      "sha256": "5adbdedb3d118e99cc7e114b746b3cf6f6a46a4642e0ff215d6a431e55901995",
+      "fits_native_cell": true
+    },
+    {
+      "font": "Galmuri14",
+      "representative_glyph": "가",
+      "bbx": [
+        14,
+        14,
+        1,
+        0
+      ],
+      "sha256": "316afc1e7b48abf3bbd261b572148610a5fcad9da8e96a7c9de7e910af973bf4",
+      "fits_native_cell": false
+    }
+  ],
+  "selected": "Galmuri11-Condensed",
+  "scaling": false,
+  "selected_roles": {
+    "Galmuri7": "타이틀 버튼, 작은 부제와 시작 안내, 이름판 58개, 배경 표지와 퍼즐 독음",
+    "Galmuri9": "통계 화면의 작은 문구",
+    "Galmuri11-Condensed": "8픽셀 폭 본편 대사, 옵션 본문, 시스템·미니게임 안내, 스태프 인명",
+    "Galmuri14": "장 제목, 화면 제목, 게임 오버, 스태프 및 끝 제목"
+  },
+  "all_roles_scale": [
+    1,
+    1
+  ],
+  "chapter_tradeoff": "원본 약 28픽셀 한자보다 작지만 네이티브 14픽셀을 원본 중심에 배치하여 확대하지 않음"
+}

@@ -1,0 +1,947 @@
+{
+  "00EB1F68:35406": {
+    "source": {
+      "resource": 15409000,
+      "offset": 35406,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "도 발"
+  },
+  "00EB1F68:35418": {
+    "source": {
+      "resource": 15409000,
+      "offset": 35418,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "소리"
+  },
+  "00EB1F68:35532": {
+    "source": {
+      "resource": 15409000,
+      "offset": 35532,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "웬 발"
+  },
+  "00EB1F68:35544": {
+    "source": {
+      "resource": 15409000,
+      "offset": 35418,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "소리"
+  },
+  "00EB1F68:44622": {
+    "source": {
+      "resource": 15409000,
+      "offset": 41360,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "나가오가 카세트를 꺼냈다‥"
+  },
+  "00EB734C:5672": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5672,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "에"
+  },
+  "00EB734C:5856": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5856,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "인공지능이다"
+  },
+  "00EB734C:5874": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5874,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "."
+  },
+  "00EB734C:11494": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5856,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "인공지능이다"
+  },
+  "00EB734C:11512": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5874,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "."
+  },
+  "00EB734C:15640": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5672,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "에"
+  },
+  "00EB734C:15830": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5856,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "인공지능이다"
+  },
+  "00EB734C:15848": {
+    "source": {
+      "resource": 15430476,
+      "offset": 5874,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "."
+  },
+  "00EBADF0:14630": {
+    "source": {
+      "resource": 15370520,
+      "offset": 27734,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "（츠츠미 나나세‥）"
+  },
+  "00EBADF0:14700": {
+    "source": {
+      "resource": 15370520,
+      "offset": 27802,
+      "size": 46,
+      "endian": "little"
+    },
+    "korean": "（학생회장이라고 따돌림을 당하거나,"
+  },
+  "00EBADF0:14748": {
+    "source": {
+      "resource": 15370520,
+      "offset": 27850,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "나서기 좋아하지도 않는다.）"
+  },
+  "00EBADF0:14788": {
+    "source": {
+      "resource": 15370520,
+      "offset": 27890,
+      "size": 34,
+      "endian": "little"
+    },
+    "korean": "（그저 성적도 성격도 좋아서,"
+  },
+  "00EBADF0:14824": {
+    "source": {
+      "resource": 15370520,
+      "offset": 27926,
+      "size": 52,
+      "endian": "little"
+    },
+    "korean": "　선생님들이 억지로 학생회장을 시킨 것이다‥‥）"
+  },
+  "00EBADF0:14886": {
+    "source": {
+      "resource": 15370520,
+      "offset": 27988,
+      "size": 34,
+      "endian": "little"
+    },
+    "korean": "（또 본인도 성격이 좋아서,"
+  },
+  "00EBADF0:14922": {
+    "source": {
+      "resource": 15370520,
+      "offset": 28024,
+      "size": 46,
+      "endian": "little"
+    },
+    "korean": "　그런 떠맡은 일을 싫어하지는 않는다.）"
+  },
+  "00EBADF0:16322": {
+    "source": {
+      "resource": 15445488,
+      "offset": 16322,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "「하하하하하‥‥」"
+  },
+  "00EBADF0:17644": {
+    "source": {
+      "resource": 15395888,
+      "offset": 6862,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "「따르르르릉‥‥」"
+  },
+  "00EBADF0:17674": {
+    "source": {
+      "resource": 15395888,
+      "offset": 6892,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "내 휴대전화가 울렸다."
+  },
+  "00EBADF0:21396": {
+    "source": {
+      "resource": 15430476,
+      "offset": 22984,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "「엥?」"
+  },
+  "00EBADF0:23760": {
+    "source": {
+      "resource": 15370520,
+      "offset": 48590,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "「그럼 간다‥」"
+  },
+  "00EBADF0:26700": {
+    "source": {
+      "resource": 15430476,
+      "offset": 24920,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "「우당탕탕탕‥‥」"
+  },
+  "00EBADF0:27086": {
+    "source": {
+      "resource": 15430476,
+      "offset": 7746,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「응‥‥」"
+  },
+  "00EBADF0:28866": {
+    "source": {
+      "resource": 15430476,
+      "offset": 31524,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「어서요!」"
+  },
+  "00EBADF0:30898": {
+    "source": {
+      "resource": 15430476,
+      "offset": 38676,
+      "size": 40,
+      "endian": "little"
+    },
+    "korean": "실패 원인은 신속히 판단하지 못한 것"
+  },
+  "00EBADF0:30940": {
+    "source": {
+      "resource": 15430476,
+      "offset": 38718,
+      "size": 50,
+      "endian": "little"
+    },
+    "korean": "우선할 걸 늘 생각했다면 이러진 않았을 텐데‥"
+  },
+  "00EC3ED0:9778": {
+    "source": {
+      "resource": 15482576,
+      "offset": 9778,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "아키"
+  },
+  "00EC3ED0:9788": {
+    "source": {
+      "resource": 15482576,
+      "offset": 9788,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "야마」"
+  },
+  "00EC57A4:12184": {
+    "source": {
+      "resource": 15395888,
+      "offset": 23650,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "「어쩌면,"
+  },
+  "00EC57A4:12586": {
+    "source": {
+      "resource": 15370520,
+      "offset": 53058,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「으~음‥‥」"
+  },
+  "00EC8450:12214": {
+    "source": {
+      "resource": 15500368,
+      "offset": 11928,
+      "size": 34,
+      "endian": "little"
+    },
+    "korean": "「죽일 필요가 없어서 아닐까요」"
+  },
+  "00EC8450:27750": {
+    "source": {
+      "resource": 15500368,
+      "offset": 20546,
+      "size": 50,
+      "endian": "little"
+    },
+    "korean": "「목숨을 위협받는 우린 더 힘들어‥‥」"
+  },
+  "room_dialogue:7520": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:7662": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:7680": {
+    "source": {
+      "resource": null,
+      "offset": 1076824,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "이면,"
+  },
+  "room_dialogue:7802": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:8970": {
+    "source": {
+      "resource": null,
+      "offset": 1078114,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": " 어서"
+  },
+  "room_dialogue:11774": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:11898": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:11916": {
+    "source": {
+      "resource": null,
+      "offset": 1081060,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "에나"
+  },
+  "room_dialogue:12040": {
+    "source": {
+      "resource": null,
+      "offset": 1081184,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "（응!?）"
+  },
+  "room_dialogue:12974": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:12992": {
+    "source": {
+      "resource": null,
+      "offset": 1081060,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "에나"
+  },
+  "room_dialogue:13198": {
+    "source": {
+      "resource": null,
+      "offset": 1076664,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "1층 『연구실』"
+  },
+  "room_dialogue:21096": {
+    "source": {
+      "resource": null,
+      "offset": 1090240,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "열쇠"
+  },
+  "room_dialogue:21274": {
+    "source": {
+      "resource": null,
+      "offset": 1090240,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "열쇠"
+  },
+  "room_dialogue:21386": {
+    "source": {
+      "resource": null,
+      "offset": 1090530,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "『살충제』"
+  },
+  "room_dialogue:21398": {
+    "source": {
+      "resource": null,
+      "offset": 1090542,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "인가‥）"
+  },
+  "room_dialogue:30658": {
+    "source": {
+      "resource": null,
+      "offset": 1099802,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "네）"
+  },
+  "room_dialogue:30742": {
+    "source": {
+      "resource": null,
+      "offset": 1099886,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": ","
+  },
+  "room_dialogue:32064": {
+    "source": {
+      "resource": null,
+      "offset": 1101208,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "‥라고"
+  },
+  "room_dialogue:33934": {
+    "source": {
+      "resource": null,
+      "offset": 1103078,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "『세제』"
+  },
+  "system_ui:9464": {
+    "source": {
+      "resource": null,
+      "offset": 1031488,
+      "size": 6,
+      "endian": "big"
+    },
+    "korean": "취소"
+  },
+  "system_ui:9498": {
+    "source": {
+      "resource": null,
+      "offset": 1031488,
+      "size": 6,
+      "endian": "big"
+    },
+    "korean": "취소"
+  },
+  "system_ui:10020": {
+    "source": {
+      "resource": null,
+      "offset": 1032044,
+      "size": 6,
+      "endian": "big"
+    },
+    "korean": "장면"
+  },
+  "room_dialogue:32074": {
+    "source": {
+      "resource": null,
+      "offset": 1101218,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "하고 싶지만,"
+  },
+  "room_dialogue:30624": {
+    "source": {
+      "resource": null,
+      "offset": 1099768,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": " 책상에 "
+  },
+  "room_dialogue:30636": {
+    "source": {
+      "resource": null,
+      "offset": 1099780,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "색이 다른 곳이 있"
+  },
+  "room_dialogue:30668": {
+    "source": {
+      "resource": null,
+      "offset": 1099812,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "（책상에"
+  },
+  "room_dialogue:30720": {
+    "source": {
+      "resource": null,
+      "offset": 1099864,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "잠겨 있진 않지만"
+  },
+  "00ECDB20:12494": {
+    "source": {
+      "resource": 15513496,
+      "offset": 14092,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "「실례합니다!」"
+  },
+  "00F7205C:47060": {
+    "source": {
+      "resource": 16195676,
+      "offset": 8832,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "「실습실을 조사해 볼까‥」"
+  },
+  "00F7205C:47982": {
+    "source": {
+      "resource": 16195676,
+      "offset": 8832,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "「실습실을 조사해 볼까‥」"
+  },
+  "00F7205C:48412": {
+    "source": {
+      "resource": 16195676,
+      "offset": 8832,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "「실습실을 조사해 볼까‥」"
+  },
+  "00F7205C:49150": {
+    "source": {
+      "resource": 15482576,
+      "offset": 1052,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「자‥‥」"
+  },
+  "00F7205C:49414": {
+    "source": {
+      "resource": 15370520,
+      "offset": 53058,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「으～음‥‥」"
+  },
+  "00F7205C:49954": {
+    "source": {
+      "resource": 15482576,
+      "offset": 1052,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「자‥‥」"
+  },
+  "00F7205C:50218": {
+    "source": {
+      "resource": 15370520,
+      "offset": 53058,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「으～음‥‥」"
+  },
+  "00F7205C:50808": {
+    "source": {
+      "resource": 15482576,
+      "offset": 1052,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「자‥‥」"
+  },
+  "00F7205C:51032": {
+    "source": {
+      "resource": 15370520,
+      "offset": 53058,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「으～음‥‥」"
+  },
+  "00F7205C:51658": {
+    "source": {
+      "resource": 15482576,
+      "offset": 1052,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「자‥‥」"
+  },
+  "00F7205C:51888": {
+    "source": {
+      "resource": 15370520,
+      "offset": 53058,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「으～음‥‥」"
+  },
+  "00ED3A18:13424": {
+    "source": {
+      "resource": 15370520,
+      "offset": 10972,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "「그럼‥‥」"
+  },
+  "00ED3A18:14532": {
+    "source": {
+      "resource": 15546904,
+      "offset": 14532,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "「할 수 없네‥‥」"
+  },
+  "00ED3A18:14568": {
+    "source": {
+      "resource": 15493012,
+      "offset": 14574,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「어쨌든,"
+  },
+  "00ED3A18:14832": {
+    "source": {
+      "resource": 15493012,
+      "offset": 14574,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「어쨌든,"
+  },
+  "00ED3A18:16262": {
+    "source": {
+      "resource": 15370520,
+      "offset": 34888,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「네엣!」"
+  },
+  "00ED3A18:16420": {
+    "source": {
+      "resource": 15370520,
+      "offset": 52024,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「근데‥‥」"
+  },
+  "00ED3A18:19220": {
+    "source": {
+      "resource": 15370520,
+      "offset": 7920,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "「그렇군요‥‥」"
+  },
+  "00ED65C8:24176": {
+    "source": {
+      "resource": 15558088,
+      "offset": 24176,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": " 돼 버렸지만요‥‥」"
+  },
+  "00EF8238:372": {
+    "source": {
+      "resource": 15688860,
+      "offset": 18188,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "（창문 열렸어?）"
+  },
+  "00EF8238:14602": {
+    "source": {
+      "resource": 15696440,
+      "offset": 5338,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "‥‥）"
+  },
+  "00F1F94C:6702": {
+    "source": {
+      "resource": 15611532,
+      "offset": 2820,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "라"
+  },
+  "00F86F88:9206": {
+    "source": {
+      "resource": 15611532,
+      "offset": 2820,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "라"
+  },
+  "00F21F90:7638": {
+    "source": {
+      "resource": 15867792,
+      "offset": 7638,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "이"
+  },
+  "00F31DF4:2870": {
+    "source": {
+      "resource": 15430476,
+      "offset": 1724,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "이고"
+  },
+  "00F31DF4:3130": {
+    "source": {
+      "resource": 15932916,
+      "offset": 3130,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "이란 거야‥‥）"
+  },
+  "00F31DF4:18342": {
+    "source": {
+      "resource": 15804020,
+      "offset": 768,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "의"
+  },
+  "00F2EE7C:26270": {
+    "source": {
+      "resource": 15867792,
+      "offset": 7638,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "이"
+  },
+  "00F36E8C:39870": {
+    "source": {
+      "resource": 15430476,
+      "offset": 1724,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "로"
+  },
+  "00F4B408:5742": {
+    "source": {
+      "resource": 15867792,
+      "offset": 7638,
+      "size": 2,
+      "endian": "little"
+    },
+    "korean": "이"
+  },
+  "00F9A00C:6800": {
+    "source": {
+      "resource": 15718268,
+      "offset": 13100,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "거든‥」"
+  },
+  "00FB3AB8:9184": {
+    "source": {
+      "resource": 16464568,
+      "offset": 9184,
+      "size": 32,
+      "endian": "little"
+    },
+    "korean": " 밖에서 자폭시킬 수 있게」"
+  },
+  "00FB9040:23470": {
+    "source": {
+      "resource": 16486464,
+      "offset": 23470,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "「『전인류』 위기에"
+  },
+  "00FBCBF8:22252": {
+    "source": {
+      "resource": 16501752,
+      "offset": 22252,
+      "size": 36,
+      "endian": "little"
+    },
+    "korean": "「네 부모님은 어떤 분이셨어?」"
+  },
+  "00FBEBFC:12054": {
+    "source": {
+      "resource": 16509948,
+      "offset": 12054,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "「폭주가 걱정"
+  },
+  "00FBEBFC:12074": {
+    "source": {
+      "resource": 16509948,
+      "offset": 12074,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "되는 병기 에너지"
+  },
+  "00FBEBFC:12094": {
+    "source": {
+      "resource": 16509948,
+      "offset": 12094,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "를 미리 빼 두는"
+  },
+  "00FC1F08:66442": {
+    "source": {
+      "resource": 16523016,
+      "offset": 66442,
+      "size": 46,
+      "endian": "little"
+    },
+    "korean": "「『육체적』으로 『정신적』으로 약해도」"
+  },
+  "00FC787C:37234": {
+    "source": {
+      "resource": 16545916,
+      "offset": 37074,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "단 사실‥‥」"
+  },
+  "00FC787C:34118": {
+    "source": {
+      "resource": 16545916,
+      "offset": 34118,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "8시간여"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "v1.0.0",
+  "date": "2026-10-16",
+  "repository": "https://github.com/snake759494/zero-one-sp-gba-korean-patch",
+  "files": {
+    "source": {
+      "file": "Zero One SP (Japan).gba",
+      "size": 16777216,
+      "sha256": "662c5efba869d9d37585eb635d36d68e950f54296c7c569c36381379bee410ba"
+    },
+    "output": {
+      "file": "Zero One SP (Korean).gba",
+      "size": 33554432,
+      "sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    "patch": {
+      "file": "Zero_One_SP_GBA_KR.xdelta",
+      "size": 4808697,
+      "sha256": "5cf26250902fac31d1f540a99bb98c371d03389d831c52959e72f71286a97a8f"
+    }
+  },
+  "xdelta_options": [
+    "-f",
+    "-0",
+    "-S",
+    "none",
+    "-D",
+    "-e"
+  ],
+  "release_assets": [
+    "Zero_One_SP_GBA_KR.xdelta"
+  ],
+  "full_playthrough_verified": false,
+  "hardware_verified": false
+}

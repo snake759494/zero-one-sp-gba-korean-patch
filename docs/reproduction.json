@@ -1,0 +1,9 @@
+{
+  "source_sha256": "662c5efba869d9d37585eb635d36d68e950f54296c7c569c36381379bee410ba",
+  "output_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+  "expected_output_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+  "matches": true,
+  "public_source_rebuild_verified": true,
+  "font_bdf_hashes_verified": true,
+  "original_rom_distributed": false
+}

@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-16",
+  "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+  "binding": {
+    "date": "2026-10-16",
+    "file_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+    "used_region_sha256": "659547836133d8155bb0ab86d685f3b420a3a7db68f32553369839c7c946736d",
+    "used_region_equal": true,
+    "used_size": 22053836,
+    "vba_sha256": "4b84f92cc67a278488de336adc45ae55d309b2dac9c7aed187d7a6d25a54f35e",
+    "emulator_closed": true
+  },
+  "emulator": "작업 폴더 vba.exe",
+  "background_hidden": true,
+  "windows_input_or_focus_used": false,
+  "emulator_closed": true,
+  "settings_restored": true,
+  "verified": [
+    "콜드 부팅",
+    "타이틀 한글 부제와 메뉴",
+    "한글 옵션 화면",
+    "옵션 진입과 타이틀 복귀 두 차례 및 배경 비교",
+    "처음부터 메뉴",
+    "도입부 한글 대사",
+    "이름창 나고무의 갈무리7 원본 픽셀 대조"
+  ],
+  "not_verified": [
+    "전편 플레이",
+    "모든 분기와 엔딩",
+    "미니게임 전체",
+    "최신 빌드 저장·로드",
+    "이름 표 전체 실행 경로",
+    "실기"
+  ],
+  "screenshots": [
+    {
+      "file": "qa_current_boot.png",
+      "sha256": "2eca22ca1ab076d85040e8d2318e859bb1d41e1557a6865504f55a53487f2f36",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_menu.png",
+      "sha256": "db201da1838ee22c73bb80939bc42c3ec7a7fb54fe627738e62bff4c3feef16b",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_settings_selected.png",
+      "sha256": "4cb8355d69a1e6c5e5948e0e3862a28bddcacad55b81125555cb79139eb78b72",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_options.png",
+      "sha256": "326f9c469618a309350e28ae7db6202c2549de55d70b2c096b6f4fd4697d7dae",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_selection_1.png",
+      "sha256": "e622f77659511273d24de070da19f7c1be3747393e2cbd12cac35815f500160f",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_selection_2.png",
+      "sha256": "97c5d42b3d93fbf419196de5be20243e8fdd185f6d3ce6693c426f306c2e3763",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_selection_3.png",
+      "sha256": "a68374b1388afc51763a500b9c1e87d40098e46b1120e6269272e94b5cf75416",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_selection_4.png",
+      "sha256": "bb899295b517a0b5ad0488767d3555f9cb59a137b262f3ca4c47211bd3de0875",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_selection_5.png",
+      "sha256": "bb899295b517a0b5ad0488767d3555f9cb59a137b262f3ca4c47211bd3de0875",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_speed_1.png",
+      "sha256": "58a83a59918f420e98bc562d6498de3da2e5e902f527847b98d51fc803ba0b12",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_speed_2.png",
+      "sha256": "58a83a59918f420e98bc562d6498de3da2e5e902f527847b98d51fc803ba0b12",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_speed_3.png",
+      "sha256": "58a83a59918f420e98bc562d6498de3da2e5e902f527847b98d51fc803ba0b12",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_speed_4.png",
+      "sha256": "326f9c469618a309350e28ae7db6202c2549de55d70b2c096b6f4fd4697d7dae",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_speed_5.png",
+      "sha256": "ebd1f40a2d7762fdcfd384d05e112f8ecb68e956fbfcf619361189a8306a42f2",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_option_speed_6.png",
+      "sha256": "6b22d958a6f1aab32a3b8c06cc8d37d7c660a092f7a534c7081481afd8175e56",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_return_from_options.png",
+      "sha256": "eeadbcf6a56956e1bf6123703362adee39ed01fcb82c38d7242a2b513815250e",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_return_again.png",
+      "sha256": "eeadbcf6a56956e1bf6123703362adee39ed01fcb82c38d7242a2b513815250e",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_mode.png",
+      "sha256": "71b2392de8b1147e83c5158642e2fc9cebabb4c5ba917152b30a5f732f7e8e23",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_start_0.png",
+      "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_start_1.png",
+      "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_start_2.png",
+      "sha256": "cfd789ad39f59e6dfe427f1228082d91d2d17d0f3065fc06c749b7a62f2eae0c",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_start_3.png",
+      "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_story_0.png",
+      "sha256": "57a1bf82b05ca2295ed0b64118ac8de3138fa84a1d0e6c550c35d9f4cb35968b",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_story_1.png",
+      "sha256": "b59f0d517d40fd3c3afdb71cff75bac1de86dae07a418210000f6e9d28001abb",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    },
+    {
+      "file": "qa_current_story_2.png",
+      "sha256": "ba367ea533f95733b4781bcd49ad94869e97fec6d9e261b38e9feb503e751fed",
+      "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755"
+    }
+  ],
+  "full_runtime_verified": false,
+  "nameplate_pixel_check": {
+    "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+    "atlas_offset": "0063BCBC",
+    "slot": 2,
+    "text": "나고무",
+    "font": "Galmuri7",
+    "scale": [
+      1,
+      1
+    ],
+    "foreground_rgb": [
+      80,
+      72,
+      136
+    ],
+    "verified_screenshots": [
+      {
+        "file": "qa_current_start_0.png",
+        "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+        "native_glyph_pixels_verified": 55
+      },
+      {
+        "file": "qa_current_start_1.png",
+        "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+        "native_glyph_pixels_verified": 55
+      },
+      {
+        "file": "qa_current_start_2.png",
+        "sha256": "cfd789ad39f59e6dfe427f1228082d91d2d17d0f3065fc06c749b7a62f2eae0c",
+        "native_glyph_pixels_verified": 55
+      },
+      {
+        "file": "qa_current_start_3.png",
+        "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+        "native_glyph_pixels_verified": 55
+      },
+      {
+        "file": "qa_current_story_2.png",
+        "sha256": "ba367ea533f95733b4781bcd49ad94869e97fec6d9e261b38e9feb503e751fed",
+        "native_glyph_pixels_verified": 55
+      }
+    ],
+    "all_58_nameplates_runtime_verified": false
+  },
+  "nameplate_vram_check": {
+    "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+    "matching_nameplate_slots": [
+      2
+    ],
+    "pixels_verified": 1024,
+    "pixel_differences": 0
+  },
+  "preserved_source_details": [
+    {
+      "resource": "007AE548",
+      "area": "가방 위 반사광·핏자국·작은 획",
+      "evidence": "재점검/남은간판/가방_획검토.png"
+    },
+    {
+      "resource": "007BBE38",
+      "area": "작은 가로 간판. 큰 세로 간판은 번역함",
+      "evidence": "재점검/남은간판/복어요리_가로간판_판독.png"
+    },
+    {
+      "resource": "007FE708",
+      "area": "경고판의 미세 획. 출입금지는 번역함",
+      "evidence": "재점검/남은간판/경고판_판독.png"
+    },
+    {
+      "resource": "009658E0",
+      "area": "원경 놀이공원 간판의 번진 획",
+      "evidence": "재점검/이미지검토/판독_배경확인_009658E0.png"
+    },
+    {
+      "resource": "00972F74",
+      "area": "원경 상점 간판의 잘린 획",
+      "evidence": "재점검/이미지검토/판독_배경확인_00972F74.png"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+  "containers": [
+    {
+      "original": "0062F3A4",
+      "new": "013AA230",
+      "titles": 71,
+      "variants": 163,
+      "fields": 560
+    },
+    {
+      "original": "00632EFC",
+      "new": "013AE048",
+      "titles": 50,
+      "variants": 137,
+      "fields": 526
+    },
+    {
+      "original": "00635D0C",
+      "new": "013B0F5C",
+      "titles": 77,
+      "variants": 130,
+      "fields": 454
+    }
+  ],
+  "title_ids_verified": 198,
+  "variant_links_verified": 430,
+  "absolute_references_verified": 21,
+  "translated_fields_verified": 1540,
+  "developer_menu_fields_verified": 5,
+  "remaining_kana_fields": 0,
+  "readback_matches": true,
+  "runtime_display_verified": false
+}

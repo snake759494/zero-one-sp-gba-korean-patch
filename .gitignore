@@ -1,0 +1,10 @@
+work/
+__pycache__/
+*.py[cod]
+*.gba
+*.sav
+*.sgm
+*.xdelta
+*.exe
+*.bdf
+*.zip

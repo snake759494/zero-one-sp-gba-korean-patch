@@ -1,0 +1,35 @@
+{
+  "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+  "user_reference_images": [
+    "Zero One SP (Japan)_02.png",
+    "Zero One SP (Korean)_01.png"
+  ],
+  "body_font_native_size": 7,
+  "title_font_native_size": 11,
+  "scale": [
+    1,
+    1
+  ],
+  "outside_text_pixels_unchanged": 29532,
+  "changed_pixels": 4001,
+  "original_palette_preserved": true,
+  "original_tile_capacity_preserved": true,
+  "selected_rows_captured": 5,
+  "emulator_closed": true,
+  "non_glyph_background_pixels_verified": 7725,
+  "no_source_text_residue_or_erasure_stripes": true,
+  "speed_cell_centers": [
+    120,
+    152,
+    184,
+    216
+  ],
+  "speed_label_origins": [
+    112,
+    144,
+    176,
+    208
+  ],
+  "all_four_speed_highlights_verified": true,
+  "speed_runtime_glyph_pixels_verified": true
+}

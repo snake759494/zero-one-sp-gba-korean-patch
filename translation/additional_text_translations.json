@@ -1,0 +1,9596 @@
+[
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485220,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "개조인간 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485236,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "아버지 실종"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485254,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "2인조 침입 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485270,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "고트 습격 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485286,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "청년의 도주"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485300,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "협박 전화"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485310,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "칼 든 살인 청부업자"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485328,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "옆방 경찰 사망"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485344,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "요인 밀실 살인 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485362,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "소형 로봇"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485376,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "배터리 방전"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485392,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "시로의 폭주"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485406,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "통화 중이었다"
+  },
+  {
+    "source": {
+      "resource": 15611532,
+      "offset": 2590,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "아버지의 죽음"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485434,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "루드에 잡히다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485450,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "진과 만나다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485466,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "군사위성의 공격"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485482,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "습격범 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485494,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "동료가 되다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485506,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "게이머의 공격"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485522,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "동급생의 죽음"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485534,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "보이지 않는 적"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485546,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "로봇의 폭주"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485562,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "신칸센의 폭주"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485576,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "오사카 여행"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485586,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "키요타와 만나다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485602,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "괴물의 꿈"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485612,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "오사카 데이트"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485626,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "미타의 죽음"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485640,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "키요타와 재회"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485652,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "UFO의 공격"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485666,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "살아 있던 아버지"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485680,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "핵미사일"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485692,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "어머니의 죽음"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485704,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "밤의 피아노 소리"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485722,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "어머니의 망령"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485736,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "루드의 습격"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485750,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "에이지의 살인"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485764,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "칼을 막았다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485780,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "시로가 파괴됐다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485798,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "괴물의 습격"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485814,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "걷는 시체를 봤다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485830,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "호텔 직원의 죽음"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485846,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "CD를 도둑맞다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485862,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "창고를 조사했다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485876,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "시체의 습격"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485892,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "사람을 무는 개"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485906,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "동네 개도 덤볐다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485924,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사람이 무는 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485942,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "개에게 습격당한 누나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485960,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "케네스가 개에게‥"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485978,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "진이 습격당했다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6485996,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "에이지가 사라졌다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486012,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "휴대전화 불통"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486028,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "호텔 점거 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486044,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "미타가 개에게‥"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486062,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "본부의 능력자 정보"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486080,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "호텔에 온 아키스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486098,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "개의 텔레파시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486116,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "놀이공원에 갔다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486132,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "소녀 실종 사건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486150,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "돌변한 키요타"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486166,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "키요타의 실종"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486184,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "에이지의 전학"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486198,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "신의 부상"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486210,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "크리에이터의‥"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486228,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "미끼 부대 전멸"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486244,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "신의 가세"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486258,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "에이지의 죽음"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486270,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "개에게 습격당한 누나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6486288,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "피가 빠진 시체"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487682,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "남미 범죄 조직 『루드』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487710,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "사병 중에 개조 수술을 받은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487736,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『사이보그』가 있던 사건."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487768,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "우리 아버지는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487788,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "벌써 두 달째 연락이 없어"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487812,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "행방을 알 수 없다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487856,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "행방불명 상태였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487880,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "나중에 발견됐지만,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487900,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "『루드』에게 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487936,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "우리 아버지는 행방불명"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487966,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "상태였다. 나중에 발견돼"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6487994,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "살해당한 줄 알았지만,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488022,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "아버지가 꾸민 일이었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488078,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "상태였다. 나중에 『루드』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488108,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "공장에서 무사히 발견됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488136,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "남자 둘이 우리 집에 침입해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488166,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "아버지의 위치를 추궁한 사건."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488196,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "경찰이 와 준 덕에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488214,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "우리는 살았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488300,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "의문의 인물이 신고해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488404,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "시로가 신고한 덕에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488506,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "데구치 에이지가 신고해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488552,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "루드의 사이보그"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488572,
+      "size": 60,
+      "endian": "little"
+    },
+    "korean": "『고트』가 집을 습격한 사건. 의문의 청년 덕에 우리는 살았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488658,
+      "size": 86,
+      "endian": "little"
+    },
+    "korean": "『고트』가 집을 습격한 사건. 의문의 청년 덕에 우리는 살았다. 고트는 그 뒤 자폭했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488770,
+      "size": 58,
+      "endian": "little"
+    },
+    "korean": "『고트』가 집을 습격한 사건. 시로 덕에 우리는 살았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488830,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "고트는 그 뒤 자폭했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488882,
+      "size": 52,
+      "endian": "little"
+    },
+    "korean": "『고트』가 집을 습격한 사건. 내 주먹에 쓰러진"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6488936,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『고트』는 체포됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489078,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『고트 습격 사건』 때"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489100,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "우리를 구해 준"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489120,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "의문의 청년은 달아나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489190,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "우리를 구해 준 뒤"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489214,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "행방을 몰랐던 청년은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489242,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "경찰에 붙잡혔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489340,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『시로』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489364,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "호텔 방에 『루드』로부터"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489394,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "협박 전화가 걸려 왔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489420,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "상대는 우리 모습을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489444,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "보고 있는 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489524,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "범인은 『아키야마 경부보』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489614,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "범인은 『사마귀』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489646,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "호텔에서 칼 든"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489666,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "청부업자의 습격을 받았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489710,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『사마귀 잭』이란"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489782,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "청부업자가 형사를 죽였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489890,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "호텔 옆방에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489910,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "대기하던 경찰이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6489930,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "밀실에서 암살당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490014,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "흉기는 『레이건』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490194,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "범인은 『데구치 에이지』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490248,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "대기하던 경찰이 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490278,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "흉기는 『일본도』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490384,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "세계의 요인이 밀실에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490404,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "암살당하는 사건."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490422,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "아직 미해결이다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490480,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "범인은 인터폴의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490502,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『아키야마 경부보』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490530,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "레이저를 쏘는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490550,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "소형 로봇에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490566,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "호텔에서 습격당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490646,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "실은 『아키야마 경부보』의 의수."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490678,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "의문의 청년은 안드로이드로,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490706,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "배터리가 방전되어"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490726,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "경찰에 붙잡혔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490750,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "안드로이드 『시로』는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490822,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『시로』는 아버지의 위치를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490852,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "추궁당하다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490868,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "폭주하고 말았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490892,
+      "size": 52,
+      "endian": "little"
+    },
+    "korean": "아버지의 위치를 추궁당하다 폭주한 『시로』는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490946,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "전화 부스에 틀어박혀"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490970,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "저격당하고 말았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6490996,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "경찰이 보관하던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491018,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『시로』가 폭주해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491040,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "거리에서 날뛰고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491108,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "거리에서 날뛰었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491124,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "크리에이터의 짓이다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491152,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "틀어박힌 『시로』는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491176,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "통화 중이었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491194,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "시로는 수화기를 쓰지 않고도"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491224,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "전화를 걸 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491256,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "시로는 전화선을 통해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491280,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "자신의 의식을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491294,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "옮길 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491324,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "아버지는 우리를 지키려고"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491354,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "연구소와 함께 자폭했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491432,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "그렇게 속였고 살아 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491462,
+      "size": 56,
+      "endian": "little"
+    },
+    "korean": "우리는 『루드』에 붙잡혀 페루 본부로 납치됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491582,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "하지만 진과"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491600,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "함께 탈출했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491626,
+      "size": 54,
+      "endian": "little"
+    },
+    "korean": "우리는 『루드』에 붙잡혀 페루 본부로 납치돼"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491682,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "미타 씨에게 구조됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491768,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "하지만 아버지를 구해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491820,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "루드 기지에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491836,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "갇힌 나는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491856,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "진의 초능력 덕에 살았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491890,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "루드 기지를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491906,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "미국의 군사위성이 공격."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6491934,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "기지는 괴멸했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492000,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "군사위성은 시로에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492020,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "장악당한 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492114,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "장악당해 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492138,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "세상을 떠들썩하게 한"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492158,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "연쇄 무차별 살인 사건."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492180,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "젊은 여성만 노린다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492208,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "젊은 여성만 노리는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492252,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "그 모습을 본 이는 없다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492326,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "범인은 『고토 마사시』로,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492352,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "투명해지는 능력을 썼다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492388,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "나는 진의 설득으로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492410,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "게이머와 싸우는 초능력 집단"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492436,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『E-gro』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492454,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "일원이 되었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492500,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "크리에이터와 싸우는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492520,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "초능력 집단 『E-gro』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492572,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "인류 문명은 『게이머』라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492598,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "불리는 의문의 존재에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492618,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "여러 번 멸망당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492646,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "세상을 떠들썩하게 한 습격범에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492674,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "동급생 『아이코』가 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492738,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "동급생 『나가오』가 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492800,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "동급생 『츠츠미』가 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492836,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "습격범은 모습을 감추는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492860,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "능력을 지니고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492914,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "능력을 지니고 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492944,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "자위대의 거대 로봇이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6492968,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "갑자기 날뛰기 시작했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493036,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "로봇이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493048,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『폭주족』이 된 건 아니다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493078,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "우리가 타고 있던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493100,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "신칸센이 폭주했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493120,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "시로가 구해 주었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493146,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "최근의 큰 뉴스."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493170,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "신칸센이 폭주해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493190,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "큰 피해가 났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493214,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "누나의 연구 발표 때문에"
+  },
+  {
+    "source": {
+      "resource": 15611532,
+      "offset": 2574,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "우리는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493250,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "오사카로 여행을 갔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493272,
+      "size": 52,
+      "endian": "little"
+    },
+    "korean": "오사카에서 시로의 모델인 『키요타 씨』를 만났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493326,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "그는 기억을 잃었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493354,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "오사카에서 괴물 꿈을 꿨다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493382,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "오사카에서 꾼 꿈속 괴물과"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493410,
+      "size": 48,
+      "endian": "little"
+    },
+    "korean": "『예지몽』에서 미타 씨를 덮친 괴물은 같은 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493492,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『예지몽』에서 미타 씨를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493516,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "덮친 괴물은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493532,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "키요타의 정신 공격이 만든 모습."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493568,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『아이코』에게 오사카를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493592,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "안내받았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493616,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『나가오』에게 오사카를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493662,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『츠츠미』에게 오사카를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493710,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『미타 씨』가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493726,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "심장마비로 돌아가셨다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493770,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "꿈속 괴물에게 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493812,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "키요타의 정신 공격에 의한"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493862,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "죽은 줄 알았던 『키요타』가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493886,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "다시 눈앞에 나타났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493958,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "실은 『시로』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6493986,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "전 세계에 UFO가 나타나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494008,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "파괴 활동을 벌였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494070,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "실은 미군의 비밀 병기를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494094,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『게이머』가 조종한 것이다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494128,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "일본에 UFO가 나타나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494166,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "실은 『E-gro』의 병기."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494200,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "폭발에 휘말려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494220,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "죽은 아버지는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494238,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "사실 로봇이었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494266,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "게이머는 핵미사일로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494292,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『E-gro』 본부를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494316,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "공격해 왔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494336,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "어머니는 내가 어릴 때"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494362,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "돌아가셨다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494436,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사인은 『자살』?"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494484,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "거물 정치가의 지시로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494504,
+      "size": 50,
+      "endian": "little"
+    },
+    "korean": "자살로 위장해 암살당했다. 원래 뛰어난 초능력자였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494560,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "밤 열두 시에 음악실의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494582,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "피아노가 울린다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494648,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "범인은 『카세트』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494716,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "범인은 『데구치 에이지』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494744,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "돌아가신 어머니의 망령이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494766,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "학교에 나타났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494824,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "어머니의 능력?"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494882,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "어머니의 잔존사념."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494906,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "학교에 『루드』 공작원이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6494934,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "나를 습격하러 왔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495006,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "동시에 집도 습격당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495038,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "형사를 죽인 범인은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495058,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『데구치 에이지』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495076,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "실은 루드의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495090,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "사이보그였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495114,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "나는 맨손으로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495128,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "칼을 막았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495182,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "실은 내 팔은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495198,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "특수한 의수였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495222,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "통신 중이던 시로는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495242,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "아키야마에게 배터리를 파괴당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495278,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "통신 중이던 시로는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495296,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "배터리를 파괴당했지만,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495324,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "의식은 군사위성에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495342,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "전송된 상태였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495364,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "창고에서 괴물의 습격을 받았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495416,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "실은 괴물이라고 믿은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495444,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "평범한 사람."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495462,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "죽은 줄 알던 사람이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495482,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "걷는 모습을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495496,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『나가오』가 목격했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495556,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『오다』가 목격했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495602,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "걷고 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495616,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "실은 능력자가 조종하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495638,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "『시체』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495654,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "호텔 직원이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495668,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "밀실에서 순식간에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495684,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "토막 시체가 되었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495712,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "호텔 직원이 밀실에서 순식간에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495768,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "실은 처음부터 시체였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495798,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『능력자』 정보가 담긴"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495824,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "데이터 CD를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495838,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『시체』에게 도둑맞았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495890,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "데이터 CD를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495928,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "범인은 시체를 조종하는 능력자였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495964,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "시체가 들어간"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6495984,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "창고를 조사하다"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496002,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "어떤 남자에게 쫓겨났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496068,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『아키야마』에게 쫓겨났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496098,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "밤의 학교에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496110,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "움직이는 시체에게 습격당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496136,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "개가 사람을 무는 사건이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496156,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "최근 빈번히 발생한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496228,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "피해자는 모두 젊은 여성이며"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496254,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "공격한 뒤에는 개가 얌전해진다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496288,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "개가 젊은 여성을 무는 사건이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496314,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "빈번히 발생했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496360,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "개에게 빙의하는 능력을 썼다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496466,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "생물에게 빙의하는 능력을 썼다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496502,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "동네 개도 사람을 물어"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496524,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "보건소로 끌려갔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496602,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『아이코』가 그걸 목격했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496688,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "근처에는 또 한 명,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496708,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "멈춰 선 차에 탄 남자가 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496742,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "20년 전 사람이 사람을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496762,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "무는 사건이 발생."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496784,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "소문에 따르면"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496798,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "범인은 거물 정치가의 아들."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496870,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "피해자는 모두 젊은 여성."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496894,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "사건은 은폐된 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496970,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "범인은 거물 정치가의 아들인"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6496996,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『고토 마사시』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497018,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "나가오의 『예지몽』에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497038,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "누나가 개에게 습격당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497066,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "나가오의 『예지몽』대로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497116,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "개는 텔레파시를 썼다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497142,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "달아나는 차도 봤다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497166,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "케네스가 개에게 습격당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497248,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "진은 에이지에게 습격당해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497274,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "눈을 다쳐서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497288,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "능력을 못 쓰게 됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497356,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "능력을 못 쓰는 상태였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497388,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "에이지는 우리 눈앞에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497416,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "모습을 감춰 보였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497440,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "에이지는 은신 능력과"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497462,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "광선을 쏘는 능력을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497484,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "가졌나?"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497502,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "에이지는 빛을 다뤄"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497524,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "모습을 감추거나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497540,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "광선을 쏜다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497568,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "파티장에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497586,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "휴대전화가 먹통이 됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497622,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "호텔을 점거한 『루드』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497652,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "방해 전파 때문에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497708,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『루드』 잔당이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497728,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "폭탄을 설치해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497748,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "호텔을 점거했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497776,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "파티 전날,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497794,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "미타 씨는 개에게 습격당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497824,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "E-gro 본부에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497844,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "능력자 정보를 입수했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497870,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『무의식적인 능력자』가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497892,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『일본』에 있는 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6497966,
+      "size": 52,
+      "endian": "little"
+    },
+    "korean": "『능력을 악용하는 능력자』가 『일본』에 있는 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498024,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "호텔에서 찍은 사진에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498046,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "아키스의 모습이 찍혔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498076,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "내게 덤벼들던 개는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498104,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "텔레파시를 썼다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498130,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "학교 친구들과"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498146,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "놀이공원에 놀러 갔다가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498168,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "귀신의 집에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498182,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "신비한 소녀를 봤다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498260,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『마이』를 봤다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498288,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "소녀 실종 사건이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498310,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "최근 잇따라 일어나고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498364,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "잇따라 일어나고 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498388,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "범인은 『고토 마사시』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498416,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "상냥했던 키요타 씨가 돌변해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498446,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "대학 준비실에 틀어박혔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498540,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "실은 속이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498552,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『고토 마사시』가 됐기 때문."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498586,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "고토 마사시에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498600,
+      "size": 48,
+      "endian": "little"
+    },
+    "korean": "정신이 파괴된 키요타 씨가 『마이』를 두고"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498650,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "자취를 감췄다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498670,
+      "size": 66,
+      "endian": "little"
+    },
+    "korean": "정신이 파괴된 키요타 씨가 마이를 두고 자취를 감췄다. 실은 속이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498738,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『시로』가 되어 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498768,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "갓 전학 온"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498790,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『데구치 에이지』가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498810,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "또 전학을 간다고 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498880,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "또 전학을 가 버렸다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498930,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『데구치 에이지』가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498948,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "곧바로 다시 전학 간 것은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6498974,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『E-gro』의 지시였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499008,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『신』이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499026,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "UFO 공격에 휘말려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499054,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "다쳤다고 한다‥‥."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499128,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "두 팔이 엉망이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499150,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "됐다고 한다‥‥."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499174,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『신』은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499194,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "UFO 공격에 휘말려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499222,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "두 팔을 잃었기에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499242,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "아버지의 의수를 달고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499274,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "인류 문명은 『크리에이터』라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499304,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "불리는 의문의 존재에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499354,
+      "size": 58,
+      "endian": "little"
+    },
+    "korean": "크리에이터가 일으킨 빛의 폭발로 도시 하나가 사라졌다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499418,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "에이지가 공격할 틈을 벌던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499444,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "E-gro의 미끼 부대는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499472,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "에이지와 함께 전멸했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499502,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『크리에이터』가 움직임을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499528,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "읽지 못하는 『신』이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499556,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "도우러 나타났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499604,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "읽지 못하는 『신』이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499634,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "아버지에게 팔을 개조받아"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499680,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『엔젤』이 움직임을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499780,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "인류의 미래를 위해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499800,
+      "size": 48,
+      "endian": "little"
+    },
+    "korean": "데구치 에이지는 『크리에이터』에게 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499876,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "데구치 에이지는 『엔젤』에게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6499906,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500006,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "나가오가 괴물 같은 걸 봤던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500034,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "창고가의 창고에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500052,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "피가 빠진 시체가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500076,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "발견됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500328,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아버지"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500336,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "조코지 노부히코"
+  },
+  {
+    "source": {
+      "resource": 16501752,
+      "offset": 16694,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "누나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500360,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "조코지 리츠코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500374,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "미타 씨"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500384,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아키스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500392,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "제네코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500400,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "오츠키 경부"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500410,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "경부님"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500420,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "츠토무"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500428,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "카도카와 츠토무"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500440,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "신"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500452,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "세키구치 신"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500462,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아이코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500470,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "미후네 아이코"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500482,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "츠츠미 나나세"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500492,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "나가오 아키라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500504,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "SP"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500510,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "오모토"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500516,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "고트"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500524,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "의문의 청년"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500534,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "형사"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500540,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "경시님"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500550,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "케이트"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500558,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "브라바스키 경시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500576,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "아키야마 경부보"
+  },
+  {
+    "source": {
+      "resource": 15482576,
+      "offset": 9778,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "아키야마"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500594,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사마귀 잭"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500612,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "시로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500620,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "로버트 대령"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500634,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "진"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500642,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "습격범"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500650,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "케네스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500658,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "고토 마사시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500670,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "아스카"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500678,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "마츠오 아스카"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500690,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "키요타 유리"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500702,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "미타의 어머니"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500712,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "피리"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500718,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "앨리스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500726,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "로즈"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500734,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "브라바스키 선생"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500752,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "데구치 에이지"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500764,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "오다 토모"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500774,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "조코지 타이라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500788,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "어머니"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500796,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "키요타 마이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500806,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "타카츠카 선생"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500816,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "게이머"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6500826,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "엔젤"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6501898,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『조코지 노부히코』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6501918,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "내 아버지."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6501932,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "세계적인 로봇 공학 박사."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6501960,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "현재 행방불명."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502004,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "행방불명이던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502034,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "범죄 조직에 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502136,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "세계적인"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502146,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "로봇 공학 박사."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502220,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "세계적인 로봇 공학 박사로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502344,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『조코지 리츠코』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502362,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "내 누나."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502374,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "인공지능을 연구하고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502402,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "어머니 대신 날 돌봐 준다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502464,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "인공지능 시로를 만든 사람."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502618,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "나이 차가 큰"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502788,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『미타 코이치』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6502806,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "아버지의 조수."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503006,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "성실함이 장점으로,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503026,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『암산 일본 1위』도 했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503058,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "집에 침입한"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503076,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "의문의 남자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503086,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "아마 『루드』의 일원."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503116,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『루드』의 일원으로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503138,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "집에 침입하거나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503158,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "아버지를 납치하려 했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503190,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『루드』의 일원."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503210,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "아버지가 꾸민"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503228,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "폭파에 휘말려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503248,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "사이보그가 됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503294,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "학교에 나타났다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503446,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "「아키스와 제네코」"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503466,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "연애 점술 같은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503480,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "콤비 이름이다‥‥."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503502,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『오츠키 가로』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503518,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "경시청의 경부님."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503538,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『루드』 사건으로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503558,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "우리의 경호를 맡는다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503644,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "우리의 경호를 맡았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503674,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "경시청의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503684,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『오츠키 경부』를 뜻한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503706,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "별명은 『울프』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503728,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『카도카와츠토무』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503746,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "내 동급생."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503762,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "도를 넘은 게임 마니아."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503792,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『카도카와 츠토무』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503824,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "비주류 게임을 좋아하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503892,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "게임 마니아."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503908,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "좋아하는 게임은 『요괴도』와"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503936,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『아수라 시리즈』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6503964,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "게임을 좋아하는 친구."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504000,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "전형적인 게임 마니아."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504044,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "전형적 게임 마니아."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504066,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "그 지식을 인정받아"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504088,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "본부로 오게 되었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504116,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『세키구치 신』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504148,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "만능 운동선수인 친구."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504170,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "이래저래 나를 신경 써 준다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504238,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "UFO 공격에 휘말려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504308,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "공격에 휘말려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504326,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "잃은 두 팔 대신에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504418,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "별명은 신."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504636,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『미후네 아이코』,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504654,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "옆집에 사는 소꿉친구."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504720,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "습격범에게 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504792,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "예지몽 능력이 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504840,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "밝고 활발한 여자아이."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504888,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "밝고 활발한 여자아이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6504908,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "였지만,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505022,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "우리 학교 학생회장."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505040,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "기품 있는 여자아이로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505056,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "학교의 마돈나 같은 존재."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505316,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사이코메트러."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505338,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "동급생."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505348,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "오컬트와"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505360,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "판타지 마니아."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505382,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "실은 글래머."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505548,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『시큐리티"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505566,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "폴리스』의 약자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505584,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "경찰이 나를 경호하려고"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505608,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "붙여 준 사복 경찰."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505676,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "스페셜도"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505692,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "옛날 레코드도 아니다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505720,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『오모토 준』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505736,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "체육 교사."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505780,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "축구부 고문."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505830,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "격투부 고문."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505848,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "루드의 사이보그."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505896,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "의문의 청년에게 패해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505916,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "자폭하고 말았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6505962,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "시로에게 패해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506026,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "내 주먹에 쓰러져"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506048,
+      "size": 40,
+      "endian": "little"
+    },
+    "korean": "체포됐지만 그 뒤 자폭했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506094,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "루드의 사이보그를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506116,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "맨손으로 쓰러뜨린 의문의 청년."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506140,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "누나의 이름을 알고 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506218,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "정체는 시로였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506244,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "형사님."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506256,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "형사 사건을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506268,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "수사하는 경찰관."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506290,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "인터폴의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506308,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "『케이트·"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506320,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "브라바스키』 경시를 뜻한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506366,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "브라바스키』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506384,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "새로 온 영어 선생님."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506414,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "동유럽계 미국인인 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506476,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "인터폴의 여성 경시."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506504,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "수사하려고 교사로 부임했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506596,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『루드』 수사 담당."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506682,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "상당한 글래머."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506724,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "일본인 형사."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506738,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "브라바스키 경시의 부하."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506768,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "전직 인터폴 소속"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506802,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "실은 루드의 청부업자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506884,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "사마귀 잭에게 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506952,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "실은 루드의 스파이."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506978,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "창고에 있던 인물."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6506996,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "시체를 조종하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507012,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "능력을 지녔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507070,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "능력을 지녔었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507094,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "본명 불명."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507106,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "루드의 청부업자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507124,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "베는 걸 매우 좋아한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507148,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "사이보그가 됐다는 소문."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507200,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "사이보그."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507232,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "독을 먹고 자살했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507286,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "시로에게 패한 탓에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507310,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "조직에 살해당했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507364,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "나고무에게 패해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507436,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "나고무에게 패한 탓에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507482,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "누나가 키우던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507502,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "인공지능."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507514,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "인간 수준의 사고와 감정이 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507544,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "안드로이드 몸을 얻었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507590,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "사고와 감정이 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507610,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "지금은 군사위성 안에 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507638,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "강력한 레이저를 쏠 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507704,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "지금은 『키요타』의 몸을 빌려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507730,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "인간 행세를 하고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507792,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "지금은 『키요타 씨』의 몸을 빌려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507852,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "『로버트·"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507866,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "윌슨』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507882,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "루드의 간부."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507898,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "우리를 페루로 납치했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507948,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "우리를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507960,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "페루로 납치했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6507980,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "페루 기지에서 사망."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508052,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "페루 기지의 지휘관."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508080,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "루드에 붙잡혀"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508102,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "있던 초능력 소녀."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508120,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "먼 곳을 보거나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508140,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "들을 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508192,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "들을 수 있는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508212,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "초능력 소녀."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508232,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『E-gro』의 동료."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508324,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "창고에서 괴물로부터"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508342,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "구해 준"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508356,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "의문의 소녀."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508372,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "세상을 떠들썩하게 한"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508394,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "연쇄 무차별 살인의 범인."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508568,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "정체는 『고토 마사시』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508592,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "초능력자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508608,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "케네스 아널드."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508630,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "염력을 쓰는 초능력자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508734,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "물건을 보이지 않게 하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508756,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "초능력자이자 습격범."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508824,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "감전되어 사망."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508844,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "개에게 빙의하는 능력을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508866,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "지녔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508880,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "젊은 여성을 물어"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508904,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "공격했던 범인."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6508928,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "생물에 빙의하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509016,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "정신 공격 능력자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509036,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "소녀 납치 사건의 범인."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509064,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『마츠오 아스카』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509080,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "자위관."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509090,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "순간이동 능력을 지녔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509226,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "전직 자위관."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509306,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "순간이동 능력을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509486,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "신경공학을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509498,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "연구하는 과학자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509520,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "아버지의 옛 조수."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509542,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "사람의 머릿속에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509556,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "의식을 보내는 능력을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509632,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "지녔었다. 진짜 키요타의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509658,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "정신도 그 능력에 죽었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509690,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "뇌를 백업하는 능력을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509814,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "고토 마사시가 뇌를 장악했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509850,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "조수 미타 씨의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509868,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "어머니."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509914,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "젊을 때는 미인이었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509972,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "젊을 때는 미인이어서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6509990,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "그 때문에 고생했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510016,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "피리 라이나니."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510058,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "순간이동 능력을 지닌"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510140,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "카레 가게를 운영한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510170,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "앨리스 애틱."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510192,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "10세."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510202,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "지능지수 1300."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510222,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『E-gro』의 리더."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510314,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "실은 『크리에이터』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510348,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『로즈메리·"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510366,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "레드버틀러』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510410,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "생체 레이저를 쓴다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510500,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "전직 오페라 가수."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510634,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "영어 선생으로 왔지만"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510664,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "인터폴의 경시였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510698,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "옆 반의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510712,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "전학생."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510750,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "실은 루드의 스파이였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510806,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "노아를 훔친 능력자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510856,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "전학 온 직후"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6510952,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "우리보다 먼저 본부에 와 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511004,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "검도 실력은 일류."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511022,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "집에서 도장을 운영한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511084,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "사이바이브"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511096,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "디스트럭션 능력을 지녔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511132,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "내 어머니."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511148,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "내가 아직"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511160,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "어릴 적에 돌아가셨다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511244,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "전설의 채널러."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511322,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『능력자』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511346,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『조코지 타이라』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511380,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "내가 아직 어릴 때"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511402,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "돌아가셨다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511454,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "내가 어릴 적에 돌아가셨다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511596,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "키요타 씨의 여동생."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511612,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "예전에 사고로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511626,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "뇌를 다친 상태다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511658,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "과학 선생님."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511672,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "대학 시절에는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511684,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "생물학을 전공했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511710,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "인류의 적."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511722,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "「인간 외의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511736,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "모든 것」을 자유롭게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511764,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "조종하는 능력을 지녔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511800,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "크리에이터의 하수인."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511822,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "수백 명 중 하나."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511844,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "처음에는 크리에이터로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6511866,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "여겨졌다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512228,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "루드"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512236,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "인터폴"
+  },
+  {
+    "source": {
+      "resource": 15395888,
+      "offset": 33042,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "사이보그"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512264,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "인공지능"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512282,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "누나의 연구"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512292,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "아버지 연구"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512302,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "페루"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512310,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "요인"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512316,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "스위트룸"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512332,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "세미스위트"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512346,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "냉각 스프레이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512360,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "레이건"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512370,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "밀실 살인"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512380,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "전파 탐지기"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512392,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "안드로이드"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512406,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "폭주"
+  },
+  {
+    "source": {
+      "resource": 15621788,
+      "offset": 2954,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "고압 전류"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512422,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "텔레파시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512434,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "초능력"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512442,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "군사위성"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512452,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "연구 발표"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512470,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "사이코키네시스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512486,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "E-gro"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512498,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "내 능력"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512510,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "게이머의 능력"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512526,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "은신 능력"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512540,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "예지몽"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512548,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "자위대"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512556,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "훈련"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512562,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "순간이동"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512572,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "보행 전차"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512582,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "오사카"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512588,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "키요타 연구"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 1090240,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "열쇠"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512606,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "키요타 기계"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512618,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "메모"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512624,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "UFO"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512632,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "마추픽추"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512646,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "A 레코드"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512658,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "시뮬레이션"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512676,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "바이러스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512686,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "방화벽"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512704,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "잔존사념"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512714,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "채널러"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512726,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "추파카브라"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512740,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "뱀파이어"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512752,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "네크로맨시"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512766,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "고유진동수"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512778,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "고시키자와 연구소"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512794,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "케이크"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512802,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "은 포크"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512816,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "데이터 CD"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512828,
+      "size": 4,
+      "endian": "little"
+    },
+    "korean": "노아"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512834,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "개 조종 능력"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512848,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "파티"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512860,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "아버지의 의수"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512876,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "입체 영상"
+  },
+  {
+    "source": {
+      "resource": 16509948,
+      "offset": 2212,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "스파이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512894,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "아키야마의 팔"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512904,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "전파 차단기"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512918,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "아나필락시스"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512934,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "세계시민평화회의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512952,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "전자 이빨"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512962,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "머스터드"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512974,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "야오이 그룹"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6512990,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "유효 범위"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513000,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "크리에이터"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513026,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "잠재의식"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513040,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "프로토콜"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513052,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "천리안"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513060,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "크리에이터의 힘"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513078,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사이코메트리"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513096,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "데자뷔"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6513108,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "카트리지"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514426,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "남미에 본거지를 둔"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514448,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『무기 밀매 조직』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514530,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "인터폴에 의해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514554,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "괴멸되었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514576,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "국제경찰."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514588,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "국제적인 범죄를 다루는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514610,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "경찰 기관."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514626,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "특수한 개조 수술로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514650,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "초인적인 힘을 얻은 인간."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514686,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "기억력과 사고 능력 외에도"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514710,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "호기심을 지닌"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514724,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "컴퓨터 프로그램."
+  },
+  {
+    "source": {
+      "resource": 15430476,
+      "offset": 5832,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "누나가 키우는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514820,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "누나가 키우는 인공지능."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6514942,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "누나가 키우던 인공지능."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515002,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "지금은 『키요타』의 몸을 빌려"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515120,
+      "size": 54,
+      "endian": "little"
+    },
+    "korean": "지금은 『키요타 씨』의 몸을 빌려 인간 행세를 하고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515180,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "인공지능 연구."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515202,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "기계와 인간의 신경을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515222,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "연결하는 연구."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515242,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "루드의 본거지가 있는 나라."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515268,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "신비로운 고대 유적이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515288,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "많이 남아 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515312,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "루드의 본거지가 있던 나라."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515452,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『E-gro』의 본부가 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515486,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "정치나 경제계 등에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515506,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "중요한 위치에 있는 사람."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515524,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "그 외의 사람은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515540,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "필요 없다는 뜻은 아니다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515568,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "호텔 등의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515582,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "응접실이 딸린 객실."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515614,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "스위트룸의 저렴한 버전."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515670,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "단맛을 줄인 초콜릿은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515694,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "세미스위트 초콜릿."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515720,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "경부님이 준"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515738,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "다친 발 치료용 스프레이."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515766,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "눈에 따갑다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515830,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "유효 성분은 1%뿐."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515856,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "99%는 효과 없음."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515880,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "광선총."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515904,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『연쇄 요인 밀실 암살 사건』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515934,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "범행에도 쓰였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515956,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "들어갈 수 없는 곳에서의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6515978,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "살인 사건."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516028,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "추리물의 단골 소재."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516050,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "전파를 찾아내는 기계."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516072,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "도청기 등을 찾는 데 쓴다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516104,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "이른바 인조인간."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516124,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "사람의 손으로 만든"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516150,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "사람을 닮은 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516174,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "이상 작동해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516188,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "제어할 수 없게"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516208,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "되는 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516224,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "이상 작동하는 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516244,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "교통법규를 어기거나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516264,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "몰려다니며 허세를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516282,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "부리는 건 아니다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516302,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "전압이 높은 전류."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516320,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "매우 위험!"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516340,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "마음에 직접 말을 거는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516360,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "초능력의 일종."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516416,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "능력자는 모두"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516430,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "텔레파시를 쓸 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516456,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "과학적으로 밝혀지지 않은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516482,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "인간 능력의 총칭."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516552,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "사기꾼은 마술을 이렇게 부른다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516584,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "군사 목적으로 쓰이는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516606,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "인공위성."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516622,
+      "size": 8,
+      "endian": "little"
+    },
+    "korean": "누나는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516632,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "곧 학회에서 연구 발표를 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516674,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "학회에서 연구 발표를 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516696,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "장소는 오사카."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516724,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『시로』 이야기를 조금"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516752,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "학회에서 발표했다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516792,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "무차별로 행인을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516810,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "공격하는 폭력 범죄자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516834,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "손대지 않고 물건을 움직이는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516874,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "이른바 염력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516894,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "『이글』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516910,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "페루에 본부를 둔"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516930,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "게이머와 싸우기 위해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6516952,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "결성된 초능력 집단"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517014,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "크리에이터와 싸우기 위해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517066,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『머티리얼 메스머리즘』."
+  },
+  {
+    "source": {
+      "resource": 15675224,
+      "offset": 9156,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "자기 육체를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517110,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "상상으로 변질시키는 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517142,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "「인간 이외의 모든 것」을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517172,
+      "size": 60,
+      "endian": "little"
+    },
+    "korean": "자유롭게 조종하는 능력. 천재지변을 일으킬 수도 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517238,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "자신과 자신이 만지는 물건을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517266,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "보이지 않게 하는 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517292,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "미래를 예언하는 『꿈』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517320,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "군대가 없는 일본의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517340,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "평화를 지키는 조직."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517368,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "군대가 없는 일본의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517390,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "군사훈련 같은 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517418,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『텔레포테이션』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517444,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "순식간에 먼 거리를 이동하는 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517478,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "자위대의 신병기."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517496,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "이른바 거대 로봇."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517524,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "일본 대도시 중 하나."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517546,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "독특한 문화를 지닌 땅."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517596,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "엉뚱한 농담과 태클,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517614,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "불법 주차,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517630,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "날치기의 명소."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517654,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "인간의 뇌에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517666,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "직접 정보를 입력하는 연구."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517696,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "뇌를 다친 여동생을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517718,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "되돌려 놓으려고"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517736,
+      "size": 44,
+      "endian": "little"
+    },
+    "korean": "키요타 씨는 뇌를 백업하는 연구를 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517786,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "미타 씨 방의 열쇠."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517810,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "방에 떨어져 있었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517878,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "여벌 열쇠는 아주머니가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517900,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "항상 몸에 지니고 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6517940,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "직접 정보를 입력하는 기계."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518008,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "이걸 써서 『시로』는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518036,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『키요타』의 뇌에 전송됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518066,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "인간의 뇌 속 정보를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518086,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "뽑아내는 장치."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518102,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "정보를 뇌에 옮길 수도 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518136,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "뇌 속 정보를 뽑아내는 장치."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518222,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『키요타 씨』의 뇌에 전송됐다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518256,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "구 연구동 1층 준비실에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518278,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "발견한 메모."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518294,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『001 츠무라』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518314,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "라고 쓰여 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518358,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "발견한 메모. 거울에 비추면"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518384,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『◯◯一 시마루』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518404,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "라고 읽힌다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518458,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『열쇠를 찾습니다』"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518504,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『미확인 비행물체』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518552,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "각지에 나타난 UFO의 정체는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518582,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "미군의 비밀 병기였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518632,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "UFO의 정체는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518648,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "E-gro의 비밀 병기였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518682,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "페루에 있는 잉카 유적."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518710,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "다른 이름은 『공중 요새』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518782,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『E-gro』의 본부가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518806,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "지하에 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518852,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "빨강 마추픽추,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518872,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "파랑 마추픽추,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518892,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "노랑 마추픽추."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518914,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『아카식 레코드』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518940,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "게이머의 정보가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6518958,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "기록되어 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519042,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "부술 수도 옮길 수도 없다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519098,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "게이머의 세계와"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519116,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "이 세계를 잇는 연결 장치."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519200,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "크리에이터의 정보가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519366,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "크리에이터가 보내는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519386,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "신호의 『수신 장치』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519438,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "모방해 재현하는 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519462,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "모의실험 형식의 게임을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519488,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "시뮬레이션 게임이라고 부른다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519574,
+      "size": 54,
+      "endian": "little"
+    },
+    "korean": "시뮬레이션 게임이라 부른다. PC에서 인기가 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519658,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "흔히 『슈뮬레이션』으로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519688,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "잘못 불린다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519706,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "컴퓨터 바이러스."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519730,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "컴퓨터 안에서 멋대로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519754,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "증식하고 파괴하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519772,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "프로그램을 뜻한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519796,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "미생물 바이러스를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519816,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "비루스라 부르는 이도 있지만,"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519844,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "컴퓨터 바이러스는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519868,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "그렇게 부르지 않는다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519894,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "나이 든 이는 비루스라 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519920,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "「바이러어스!」"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519938,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "「목소리가 작다!」도"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519958,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "어르신 전용 농담."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6519982,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "컴퓨터 등을 향한"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520008,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "외부의 불법적인 접근을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520036,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "차단하는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520058,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "방어 시스템."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520078,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "장소나 물건에 남은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520098,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "사람 등의 기억."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520116,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "어머니는 이것을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520132,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "학교에 남겨 두었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520156,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "남의 의식을 불러오거나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520182,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "자신의 의식을 보낼 수 있는 사람."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520212,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "우리 어머니는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520228,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "채널러였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520252,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "남미의 흡혈귀."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520268,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "주로 가축 등을 습격하는 괴물."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520298,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "이른바 『흡혈귀』."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520320,
+      "size": 46,
+      "endian": "little"
+    },
+    "korean": "『은』이나 『십자가』, 『마늘』 등에 약하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520372,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "시체를 조종하는 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520394,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "물질이 공명하기 쉬운 수치."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520424,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "그 수치에 가까운 진동을 주면"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520454,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "크게 흔들리기 시작한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520478,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "아버지 대학의 연구 시설."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520504,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "별장지 안의 양옥."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520574,
+      "size": 54,
+      "endian": "little"
+    },
+    "korean": "전쟁 전 고시키자와에는 수상한 종교의 본거지가 있었다나‥‥."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520634,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "내가 싫어하는 음식."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520658,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "케이크를 먹으면 졸음이 온다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520692,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "아버지 일행은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520706,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "내 의수를 바꾸기 위해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520736,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "생일 케이크에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520756,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "수면제를 넣었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520782,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "나가오의 부적."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520800,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "원래는 『은 숟가락』인데"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520830,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "나가오는 착각해서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520848,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "가지고 다닌다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520870,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "능력자 정보가 담긴 CD."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520898,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "본부에서 보내왔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520926,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "본부에서 보내온"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6520976,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "시체에게 도둑맞았다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521006,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "게이머가 보내온"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521032,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "인류를 구할 신비한 돌."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521056,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "누군가가 훔쳐 갔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521130,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "『데구치 에이지』가 훔쳐 갔다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521162,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "개 사건은 『능력자』의 짓."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521192,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "분명 능력으로 개를 조종한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521256,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "하지만 조종 능력은 아니었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521322,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "하지만 조종 능력이 아닌"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521350,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "생물에 빙의하는 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521438,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『수인화』 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521460,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "아버지를 후원하는 회사인"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521488,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "야오이 그룹의 파티."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521580,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "루드가 호텔을 점거해"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521602,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "엉망이 되었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521624,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "내 두 팔은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521638,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "아버지가 만든 의수였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521662,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "그것도 엄청난 힘이 나오는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521688,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "특제품인‥‥."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521708,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "『신』은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521726,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "잃은 두 팔 대신에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521778,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "엄청난 힘이 나온다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521804,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "누나는 연구 발표 때"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521826,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "입체 영상을 써서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521844,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "설명할 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521866,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "최신 입체 영상은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521884,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "마치 눈앞에"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521900,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "실물이 있는 것처럼 보인다고 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521936,
+      "size": 50,
+      "endian": "little"
+    },
+    "korean": "미타 씨 어머니 말씀으로는 경찰에 『루드』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6521988,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "스파이가 있다고 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522014,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "경찰에 있던"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522026,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『루드』의 스파이는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522048,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "『아키야마 경부보』였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522076,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "아키야마의 팔은 의수가 아닌"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522102,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "강력한 레이저 총이었다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522188,
+      "size": 50,
+      "endian": "little"
+    },
+    "korean": "배터리가 독립되어 있어 팔만으로도 작동한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522244,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "크리에이터의 신호를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522266,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "차단하는 장치."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522282,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "신호를 반전시켜 부딪치는 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522318,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "알레르기의 일종."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522338,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "급격한 알레르기 반응으로"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522362,
+      "size": 6,
+      "endian": "little"
+    },
+    "korean": "때로는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522370,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "쇼크사할 수도 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522402,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "야오이 그랜드 호텔에서"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522426,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "열리는 세계적인 회의."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522452,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "세계의 요인들이 많이"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522472,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "찾아온다고 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522492,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "『루드』의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522506,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "아키스 전용 비밀 병기."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522528,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "100만 볼트의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522546,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "전류가 흐른다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522572,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "아무래도 개는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522586,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "머스터드 냄새에 약한 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522622,
+      "size": 44,
+      "endian": "little"
+    },
+    "korean": "아버지를 후원하는 기업 중 하나. 의료 외에도"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522668,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "폭넓게 사업을 한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522692,
+      "size": 58,
+      "endian": "little"
+    },
+    "korean": "아버지를 후원하는 기업 중 하나. 야마·오치·이미가 없단 뜻은"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522752,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "아니다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522768,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "『능력』의 유효 범위는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522790,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "능력자의 힘마다 다른 듯하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522826,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "이 세계를 만든 자."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522848,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "그리고 이 세계를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522866,
+      "size": 20,
+      "endian": "little"
+    },
+    "korean": "멸망시키려는 존재."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522954,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "정체는 앨리스였다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6522984,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "『크리에이터』의 하수인."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523010,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "『크리에이터』는"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523030,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "수백의 『엔젤』을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523056,
+      "size": 12,
+      "endian": "little"
+    },
+    "korean": "거느린다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523074,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "의식할 수 없는 정보를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523094,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "반복해서 내보내"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523114,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "무의식에 영향을 주는 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523144,
+      "size": 56,
+      "endian": "little"
+    },
+    "korean": "통신으로 데이터를 주고받을 때의 절차나 형식 등을 정한 규칙."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523206,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "먼 곳을 보거나"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523226,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "보통 사람이 못 듣는 소리를"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523252,
+      "size": 18,
+      "endian": "little"
+    },
+    "korean": "들을 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523306,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "자유롭게 조종할 수 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523334,
+      "size": 30,
+      "endian": "little"
+    },
+    "korean": "천재지변을 일으킬 수도 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523400,
+      "size": 24,
+      "endian": "little"
+    },
+    "korean": "자유롭게 조종하며"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523426,
+      "size": 58,
+      "endian": "little"
+    },
+    "korean": "천재지변을 일으킬 수도 있다. 직접 공격하는 능력도 있다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523490,
+      "size": 10,
+      "endian": "little"
+    },
+    "korean": "물건이나 장소의"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523502,
+      "size": 28,
+      "endian": "little"
+    },
+    "korean": "『과거의 기억』을 보는 능력."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523536,
+      "size": 14,
+      "endian": "little"
+    },
+    "korean": "경험하지 않은 일을"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523552,
+      "size": 26,
+      "endian": "little"
+    },
+    "korean": "이미 경험한 일처럼"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523580,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "느끼는 것."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523602,
+      "size": 16,
+      "endian": "little"
+    },
+    "korean": "케이스에 담겨"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523620,
+      "size": 58,
+      "endian": "little"
+    },
+    "korean": "분리할 수 있는 부품. 케이스째 기기에 장착한다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523702,
+      "size": 44,
+      "endian": "little"
+    },
+    "korean": "분리할 수 있는 부품. 게임 소프트웨어가"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 6523748,
+      "size": 22,
+      "endian": "little"
+    },
+    "korean": "담겨 있기도 하다."
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 1021620,
+      "size": 20,
+      "endian": "big"
+    },
+    "korean": "미니게임 #000"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 1021576,
+      "size": 6,
+      "endian": "big"
+    },
+    "korean": "종료"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 1021596,
+      "size": 20,
+      "endian": "big"
+    },
+    "korean": "특수 연출 #000"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 1021644,
+      "size": 20,
+      "endian": "big"
+    },
+    "korean": "지도 #000"
+  },
+  {
+    "source": {
+      "resource": null,
+      "offset": 1021668,
+      "size": 20,
+      "endian": "big"
+    },
+    "korean": "연속 기동 #000"
+  }
+]

@@ -1,0 +1,3 @@
+Pillow>=10
+unicorn>=2
+psutil>=5

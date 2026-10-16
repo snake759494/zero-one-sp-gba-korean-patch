@@ -1,0 +1,44 @@
+{
+  "rom_sha256": "c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755",
+  "atlas_offset": "0063BCBC",
+  "slot": 2,
+  "text": "나고무",
+  "font": "Galmuri7",
+  "scale": [
+    1,
+    1
+  ],
+  "foreground_rgb": [
+    80,
+    72,
+    136
+  ],
+  "verified_screenshots": [
+    {
+      "file": "qa_current_start_0.png",
+      "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+      "native_glyph_pixels_verified": 55
+    },
+    {
+      "file": "qa_current_start_1.png",
+      "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+      "native_glyph_pixels_verified": 55
+    },
+    {
+      "file": "qa_current_start_2.png",
+      "sha256": "cfd789ad39f59e6dfe427f1228082d91d2d17d0f3065fc06c749b7a62f2eae0c",
+      "native_glyph_pixels_verified": 55
+    },
+    {
+      "file": "qa_current_start_3.png",
+      "sha256": "60b3cb174efb6179181b5e33cbb44cb6441d6ddb48617008a65c8811270fcb27",
+      "native_glyph_pixels_verified": 55
+    },
+    {
+      "file": "qa_current_story_2.png",
+      "sha256": "ba367ea533f95733b4781bcd49ad94869e97fec6d9e261b38e9feb503e751fed",
+      "native_glyph_pixels_verified": 55
+    }
+  ],
+  "all_58_nameplates_runtime_verified": false
+}
