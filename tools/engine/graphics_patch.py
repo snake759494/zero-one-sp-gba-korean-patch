@@ -43,9 +43,11 @@ def huffman_fixed4(data):
     assert huffman(result)[0]==data
     return result
 
-def literal_lz(data):
+def _old_literal_lz(data):
     result=b'\x10'+len(data).to_bytes(3,'little')+b''.join(b'\0'+data[i:i+8] for i in range(0,len(data),8))
     return result+b'\0'*(-len(result)%4)
+
+from lz10_compress import lz10_compress as literal_lz
 
 def unpack(rom,off):
     stage,n=huffman(rom,off)

@@ -20,8 +20,10 @@ def bdf(path):
             elif bitmap:g['rows'].append(int(l,16))
     return out
 
+from lz10_compress import lz10_compress
 def literal_lz(data):
-    return b'\x10'+len(data).to_bytes(3,'little')+b''.join(b'\0'+data[i:i+8] for i in range(0,len(data),8))
+    # v1.0.1: real LZ10 (was literal-only); keeps relocated scripts compact.
+    return lz10_compress(data)
 
 def hook(base):
     # A000..CBFF are custom codes, outside original two-byte Shift-JIS.
@@ -61,6 +63,12 @@ def build():
             out+=c.to_bytes(2,endian)
         return bytes(out)
     rom=bytearray(source); changes=[];ref_changes=[]
+    # v1.0.1: keep the first 1 MiB of the second 16 MiB bank (0x09000000..)
+    # unused. EEPROM games on flash carts may alias EEPROM into this window,
+    # which made the opening script unreadable on EZ-Flash Omega DE (issue #1).
+    EXPANSION_START=0x1100000
+    rom.extend(b'\xff'*(EXPANSION_START-len(rom)))
+    in_place=[]
     def alloc(data):
         while len(rom)%4:rom.append(0xff)
         off=len(rom);rom.extend(data);return off
@@ -93,7 +101,11 @@ def build():
         new=replace_entries(data,entries,f'{off:08X}')
         assert new[:body_off]==data[:body_off]
         if new==data:continue
-        packed=literal_lz(new);dest=alloc(packed)
+        packed=literal_lz(new)
+        if len(packed)<=r['compressed_size']:
+            # v1.0.1: re-pack into the original slot inside the first 16 MiB.
+            dest=off;rom[off:off+len(packed)]=packed;in_place.append(off)
+        else:dest=alloc(packed)
         assert lz10(rom,dest)[0]==new
         refs=[];p=0;needle=struct.pack('<I',off+0x08000000)
         while True:
@@ -173,7 +185,7 @@ def build():
     assert all(hashlib.sha256(p.read_bytes()).hexdigest()==input_hashes[p.name] for p in input_paths),'번역 또는 추출 자료가 빌드 중 변경되었습니다.'
     OUTPUT.write_bytes(rom)
     report={'status':'release_candidate','source_sha256':SOURCE_HASH,'output_sha256':hashlib.sha256(rom).hexdigest(),
-            'output_size':len(rom),'used_size':used,'font':'Galmuri11-Condensed v2.40.4 native bitmap','glyph_count':len(codes),
+            'output_size':len(rom),'used_size':used,'expansion_start':EXPANSION_START,'scripts_in_original_slot':len(in_place),'font':'Galmuri11-Condensed v2.40.4 native bitmap','glyph_count':len(codes),
             'font_offset':fontoff,'hook_offset':hookoff,'translated_occurrences':len(changes),
             'source_candidate_segments':source_candidate_count,
             'translation_dictionary_entries':len(tr),'context_translation_entries':len(overrides),'pointer_changes':ref_changes,'name_pointer_changes':name_changes,'text_changes':changes,'image_changes':image_changes,

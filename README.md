@@ -1,6 +1,6 @@
 # 제로원 SP — GBA 한글패치
 
-일본판 **Zero One SP**의 비공식 한글패치 **v1.0.0 (2026-10-16)** 입니다. 외부 기계 번역 없이 직접 번역했습니다.
+일본판 **Zero One SP**의 비공식 한글패치 **v1.0.1 (2026-11-08)** 입니다. 외부 기계 번역 없이 직접 번역했습니다.
 
 [정식 패치 다운로드](https://github.com/snake759494/zero-one-sp-gba-korean-patch/releases/latest) · [빌드](docs/BUILD.md) · [기술 설명](docs/TECHNICAL.md) · [검증 범위](docs/VALIDATION.md) · [권리 안내](RIGHTS.md)
 
@@ -21,8 +21,8 @@ Get-FileHash -Algorithm SHA256 'Zero One SP (Korean).gba'
 | 구분 | 바이트 | SHA-256 |
 | --- | ---: | --- |
 | source | 16,777,216 | `662c5efba869d9d37585eb635d36d68e950f54296c7c569c36381379bee410ba` |
-| output | 33,554,432 | `c7f4842e4ea4e48c071845dab40da8bd7843f34f15f29853d305ebbf4048e755` |
-| patch | 4,808,697 | `5cf26250902fac31d1f540a99bb98c371d03389d831c52959e72f71286a97a8f` |
+| output | 33,554,432 | `c932e1b8453aa136adf9584d8d0c7847f060e1dc0a870fac2261354306b19a5d` |
+| patch | 1,608,379 | `8e35ff6d81ce8df9b80f9dbe36ab2888f931887b583e8f6bcf8e2be403deaed3` |
 
 xdelta는 **`-0 -S none -D`**로 빠르게 생성했습니다. 릴리즈 첨부는 xdelta 하나이며 ROM·폰트·외부 실행파일·저장 파일은 포함하지 않습니다.
 

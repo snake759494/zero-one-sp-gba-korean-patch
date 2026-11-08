@@ -60,6 +60,10 @@ def main():
     allowed=set(range(0xfc1c,0xfc24))
     for ref in [0x10684,0x2fae8,0xf9610,0xfc10c,0x644040]:allowed.update(range(ref,ref+4))
     for e in [*report['pointer_changes'],*report['name_pointer_changes']]:allowed.update(range(e['reference'],e['reference']+4))
+    # v1.0.1: scripts re-packed into their original slot (issue #1).
+    for off in {e['original'] for e in report['pointer_changes'] if e['new']==e['original']}:
+        _,n=lz10(original,off);_,m=lz10(patched,off);assert m<=n
+        allowed.update(range(off,off+n))
     from graphics_patch import unpack,mapped_pixels,standalone_container
     image_fonts={size:bdf(ROOT/f'폰트/Galmuri{size}.bdf') for size in (7,9,14)}
     image_fonts[11]=bdf(ROOT/'폰트/Galmuri11-Condensed.bdf')
