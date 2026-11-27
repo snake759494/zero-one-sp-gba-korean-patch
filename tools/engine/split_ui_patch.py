@@ -25,7 +25,9 @@ def prepare(source,bdf_reader):
   labels=[]
   for i,line in enumerate(lines):
    labels.append((rect,line,size));UI_STYLES[a,i]={'fg':(31,31,31),'no_shadow':True,'solid_bg':True,'bg':(6,4,10),'origin_y':top+i*(size+3),'preserve_background':i>0}
-  reserved=set()
+  # Tile 0 is the blank tile other BG layers use for empty cells even when this panel's map
+  # never references it; writing text into it corrupted the minigame background (issue #2).
+  reserved={0}
   for other in all_pairs:
    if other['tiles']==key and int(other['map'],16)!=ma:
     extra,_=unpack(source,int(other['map'],16));ew,eh=struct.unpack_from('<HH',extra);reserved.update(v&1023 for v in struct.unpack_from('<'+'H'*(ew*eh),extra,4))

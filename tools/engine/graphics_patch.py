@@ -197,6 +197,10 @@ def chapter_title(original,text,glyphs):
     assert mapped_pixels(data)==newpix
     return bytes(data),bbox,len(points),[x0,y0],bg
 
+# Byte patterns that look like pointers but sit inside compressed data. Rewriting them corrupts
+# that data (issue #2: 0xD0B56C is inside an LZ stream used after Kate's line and froze the game).
+FALSE_REFS={0xd0b56c}
+
 CHAPTER_LABELS={0x644d00:('悪夢','악몽'),0x644ff8:('刺客','자객'),0x6452d4:('逃走','도주'),0x645614:('脱出','탈출'),
 0x645898:('展開','전개'),0x645bac:('凶悪','흉악'),0x645e9c:('発展','발전'),0x646200:('不死','불사'),
 0x6464b4:('狂犬','광견'),0x646774:('奪還','탈환'),0x646adc:('復讐','복수'),0x646e50:('暴走','폭주'),
@@ -213,7 +217,7 @@ def apply_chapters(source,rom,alloc,bdf_reader):
         needle=struct.pack('<I',0x08000000+off);refs=[];start=0
         while (r:=source.find(needle,start))>=0:
             start=r+1
-            if r%4==0:refs.append(r)
+            if r%4==0 and r not in FALSE_REFS:refs.append(r)
         assert refs,(hex(off),'chapter references')
         dest=alloc(packed)
         for ref in refs:
@@ -475,7 +479,7 @@ def apply_ui(source,rom,alloc,bdf_reader):
         needle=struct.pack('<I',off+0x08000000);refs=[];start=0
         while (ref:=source.find(needle,start))>=0:
             start=ref+1
-            if ref%4==0:refs.append(ref)
+            if ref%4==0 and ref not in FALSE_REFS:refs.append(ref)
         assert refs,hex(off)
         dest=alloc(packed)
         for ref in refs:
